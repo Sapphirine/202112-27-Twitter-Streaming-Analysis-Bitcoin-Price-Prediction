@@ -11,4 +11,4 @@ of people who voluntarily agree to general protocol. Decentralized infrastructur
 favourable investors are betting big on the cryptocurrency to become a mainstream asset. Sentiment is an idea or feeling that someone expresses in words. With that in mind, sentiment analysis is the process of predicting/extracting these ideas or feelings. Based on twitter, one of the most popular social media, we can calculate sentiment values for the streaming data. 
 
 We are interested in the trend of bitcoin price, as well as sentiment analysis using 
-twitter streaming data. So we define the goal of the project as below.
+twitter streaming data

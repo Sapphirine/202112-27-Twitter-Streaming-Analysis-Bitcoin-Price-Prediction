@@ -14,10 +14,10 @@ import time
 
 def main():
     # set twitter api credentials
-    consumer_key = 'jqln3CzqBBltSzTKE3zpxN0ln'
-    consumer_secret = 'PyElb7WZq8DDysPZmhTjXb6oqv5l7mPUNhFstpSGTGXd0Zod3d'
-    access_token = '1435930311230111746-46yg9jKvIAS4sfesKxQnZ62j4zR7c2'
-    access_token_secret = '5yZhPOS3TmC5dgLgGINZusIZ8xO7hysCI7GVC1WDlxaVW'
+    consumer_key = ''
+    consumer_secret = ''
+    access_token = ''
+    access_token_secret = ''
     
     # set path of csv file to save sentiment stats
     path = 'live_tweet.csv'
